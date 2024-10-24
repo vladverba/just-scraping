@@ -1,0 +1,3 @@
+.env
+/venv
+/projects/adidas/output/*.csv
